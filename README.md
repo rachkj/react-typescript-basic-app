@@ -11,5 +11,5 @@
 6. Install third party libraries: npm install
 
 ### Run the application using: 
-npm run dev
+npm run dev <br />
 Copy the URL seen on the screen to access the GUI.
